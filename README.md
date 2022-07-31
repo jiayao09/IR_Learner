@@ -1,6 +1,6 @@
 # IR_Learner
 
-![alt text](https://github.com/jiayao09/IR_Learner/blob/e6cd6b028ed485afeeec21fdc0067403ba403e26/picture/IR_learner.jpg)
+![alt text](https://github.com/jiayao09/IR_Learner/blob/d7a8a0836efb85b6a72fa5c64376c9498037e5e6/Media/IR_learner.png)
 
 What Can I do
 
