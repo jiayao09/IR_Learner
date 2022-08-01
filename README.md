@@ -15,20 +15,15 @@ what you need to build it:
 
 Hardware:
 
-  Arduino Nano X 1
-  
-  Breadboard X 1
-  
-  Button X 1
-  
-  Potentiometer X 1
-  
-  IR Receiver X 1
-  
-  IR Emitter X 1
-  
-  220-ohm resistor X 1
+  - Arduino Nano X 1
+  - Breadboard X 1
+  - Button X 1  
+  - Potentiometer X 1  
+  - IR Receiver X 1
+  - IR Emitter X 1
+  - 220-ohm resistor X 1
  
+
 Library:
 
   #include <IRremote.hpp>
