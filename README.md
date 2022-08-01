@@ -35,4 +35,4 @@
 
 <br/> Further Development:
 
-  - Add more learning type.
+  - Add more learning types.
