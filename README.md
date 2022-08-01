@@ -13,7 +13,7 @@ What Can I Do:
 
 What You Need To Build It:
 
-  Hardware:
+  - Hardware:
 
     - Arduino Nano X 1
     - Breadboard X 1
@@ -24,7 +24,7 @@ What You Need To Build It:
     - 220-ohm resistor X 1
  
 
-  Library:
+  - Library:
 
     #include <IRremote.hpp>
   
@@ -34,8 +34,7 @@ What You Need To Build It:
 
 How to Put Everything Together:
 
-
-  The layout for the connection is shown below or check the fzz file for a detailed setup.
+  - The layout for the connection is shown below or check the fzz file for a detailed setup.
   
 ![alt text](https://github.com/jiayao09/IR_Learner/blob/a742e04683f8c1fc1be3c7f63574f3ec148cf390/Media/fzz%20layout.png)
 
