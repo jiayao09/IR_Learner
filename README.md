@@ -6,7 +6,10 @@
   - Able to learn and send multiple types of IR signals, for example, NEC, SONY, or unrecognized PULSE_DISTANCE.
   - Able to store and send up to three learned IR signals in EEPROM.
   
-  <br/> Check out this video: (Still making it!)
+  <br/> Check out this video: 
+  
+
+https://user-images.githubusercontent.com/110358483/204080624-bda702c4-d93c-4d16-a266-d3afdad9c59b.mp4
   
 <br/> What You Need To Build It:
 
